@@ -1,1 +1,1 @@
-window.location.href = 'https://webhook.site/b2827932-b0a6-490a-9be6-5c08830d7453/?red';
+window.location.href = 'https://webhook.site/ef74399d-f3fc-4651-9e00-8cc2718cc006/?red';
